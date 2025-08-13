@@ -6,5 +6,6 @@ public class GItTesting {
     {
             System.out.println("This my testing of git");
             System.out.println("Conflicts");
+            System.out.println("Resolving");
     }
 }
